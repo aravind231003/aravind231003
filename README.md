@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aravind231003
 - 👀 I’m interested in mobile app development.
 - 🌱 I’m currently learning flutter and firebase
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me for any enquiry @ aravind231003@gmail.com 
 
 <!---
